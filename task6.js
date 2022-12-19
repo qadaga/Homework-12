@@ -4,9 +4,9 @@ let firstname = "elene"
 
 let lastname = "kvarackhelia"
 
-if (age < 18) {
-    console.log ('invalid')
+if (firstname && lastnameage >= 18) {
+    console.log ('valid')
 }
 else {
-    console.log ('valid')
+    console.log ('not valid')
 }
